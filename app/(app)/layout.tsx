@@ -14,7 +14,7 @@ const archivo = Archivo({
 });
 
 const meta = {
-  title: 'NWO starter template',
+  title: 'Voice Assistant',
   description: 'Your trusted partner for cutting-edge software solutions.',
   cardImage: '/og.png',
   robots: 'nofollow, noindex',
